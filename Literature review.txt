@@ -8,7 +8,7 @@ What is required for GPS to work on mobile phone
 GPS work on android
 Potential limitations of mobile phone GPS
 
-App review
+
 Google map
 Foursquare
 HungryGoWhere
